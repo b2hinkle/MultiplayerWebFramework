@@ -1,0 +1,9 @@
+[submodule "MWFHostServices"]
+	path = MWFHostServices
+	url = https://github.com/brian2524/MWFHostServices
+[submodule "MWFDatabaseServices"]
+	path = MWFDatabaseServices
+	url = https://github.com/brian2524/MWFDatabaseServices.git
+[submodule "MWFManagementConsole"]
+	path = MWFManagementConsole
+	url = https://github.com/brian2524/MWFManagementConsole.git
