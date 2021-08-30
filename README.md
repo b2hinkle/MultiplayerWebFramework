@@ -16,6 +16,7 @@ developers to easily manage dedicated servers.
 ![image](https://user-images.githubusercontent.com/7013902/131389369-9eead745-2c01-42a4-888c-bc6341472c36.png)
 
 ## Full Diagram
-![image](https://user-images.githubusercontent.com/7013902/131390018-614776fd-8b9d-45ba-a515-37debd9d70dd.png)
+![image](https://user-images.githubusercontent.com/7013902/131390273-c07f5769-37bf-4ab3-8060-352407784d15.png)
+
 
 
