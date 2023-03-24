@@ -1,6 +1,7 @@
 # MultiplayerWebFramework
 
-An Engine agnostic framework for managing dedicated game servers. See it live at [https://mwfmanagementconsole.azurewebsites.net/](https://mwfmanagementconsole.azurewebsites.net/)
+An Engine agnostic framework for managing dedicated game servers.
+*See it live at [https://mwfmanagementconsole.azurewebsites.net/](https://mwfmanagementconsole.azurewebsites.net/)*
 
 ## Problem Statement
 It is very common among indie game developers to use listening servers when creating
