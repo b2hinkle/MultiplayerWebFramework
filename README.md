@@ -2,10 +2,9 @@
 
 An Engine agnostic framework for managing dedicated game servers.
 
-*See it live at [https://mwfmanagementconsole.azurewebsites.net/](https://mwfmanagementconsole.azurewebsites.net/)*
-
-## Demo
-https://youtu.be/wAIStc3JcEE
+## Live Demo
+See it live at https://mwfmanagementconsole.azurewebsites.net/
+*Video demo: https://youtu.be/wAIStc3JcEE*
 
 ## Problem Statement
 It is very common among indie game developers to use listening servers when creating
